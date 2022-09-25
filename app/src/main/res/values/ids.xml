@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="turnBlth" type="id" />
+    <item name="linearLayout2" type="id" />
+    <item name="guideline2" type="id" />
+    <item name="pairedDevicesList" type="id" />
+    <item name="activity_main" type="id" />
+    <item name="availableDevicesTxt" type="id" />
+    <item name="guideline6" type="id" />
+    <item name="refreshBtn" type="id" />
+    <item name="availableDevices" type="id" />
+    <item name="guideline5" type="id" />
+    <item name="guideline4" type="id" />
+    <item name="deviceNameTxt2" type="id" />
+    <item name="MACAddressTxt" type="id" />
+    <item name="pairedDeviceTxt" type="id" />
+    <item name="deviceNameTxt1" type="id" />
+    <item name="guideline8" type="id" />
+    <item name="guideline7" type="id" />
+    <item name="editNameBtn" type="id" />
+    <item name="actuallyDeviceNameTxt" type="id" />
+</resources>
